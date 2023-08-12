@@ -2,3 +2,4 @@
 
 
 ### Code is now moved into a new repo using unboxed arrays and vectors for when I want to tinker with the underlying math of nets and ai (in haskell, as it is my favorite for math).# AczAIUnfinished
+# AczAIUnfinished
